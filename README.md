@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I am Sushant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<h4 align="center">MERN Stack Enthusiast and Music App Developer!</h4>
+<h4 align="center">Passionate Coder and Problem Solver!</h4>
 
 - 🔭 Most Recent Project **[AuraBeats](https://github.com/CodeBySushant/AuraBeats.git)**
 
@@ -75,9 +75,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.youtube.com/@nitiansushant" target="blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="nitiansushant" height="#" width="30" />
-    </a>
+     <a href="https://twitter.com/codebysushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="codebysushant" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/sushantsharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="sushantsharma14" height="30" width="30" /></a>
     <a href="https://instagram.com/lifeofsushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="lifeofsushant" height="30" width="30" /></a>
     <a href="https://telegram.dog/codebysushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="codebysushant" height="#" width="30" /></a>
