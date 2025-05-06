@@ -75,7 +75,7 @@
 <br>
 
 <p align="center">
-    <a href="https://www.youtube.com/c/@nitiansushant" target="blank">
+    <a href="https://www.youtube.com/@nitiansushant" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="nitiansushant" height="#" width="30" />
     </a>
     <a href="https://www.linkedin.com/in/sushantsharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="sushantsharma14" height="30" width="30" /></a>
