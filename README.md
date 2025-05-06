@@ -70,7 +70,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeBySushant&show_icons=true&count_private=true&theme=react&&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Sushant's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySushant&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
 | ------------- | ------------- |
 
-<hr />
+**Find out more about me at : [My website!](https://codebysushant.netlify.app/)**
+<br>
+<br>
 
 <p align="center">
     <a href="https://www.youtube.com/c/@nitiansushant" target="blank">
@@ -78,9 +80,7 @@
     </a>
     <a href="https://www.linkedin.com/in/sushantsharma14" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="sushantsharma14" height="30" width="30" /></a>
     <a href="https://instagram.com/lifeofsushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="lifeofsushant" height="30" width="30" /></a>
-    <a href="https://telegram.dog/codebysushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="codebysushant" height="30" width="30" /></a>
+    <a href="https://telegram.dog/codebysushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="codebysushant" height="#" width="30" /></a>
 </p>
 
 <hr>
-
-**Find out more about me at [My website!](https://codebysushant.netlify.app/)**
