@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ### Recent projects :computer:
 [![Readme Card](https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=CodeBySushant&repo=AuraBeats&theme=dark&hide_border=false)](https://github.com/CodeBySushant/AuraBeats)
+
+### Recent projects :computer:
+[![Readme Card](https://github-readme-stats-chi-tan.vercel.app/api/pin/?username=CodeBySushant&repo=AuraBeats&theme=dark&hide_border=false)](https://github.com/CodeBySushant/AuraBeats)
