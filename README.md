@@ -67,14 +67,6 @@
 
 <hr />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySushant&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" alt="Top Languages" />
-</p>
-
-<hr />
-
 ## 🤝 Connect With Me
 
 <p align="center">
